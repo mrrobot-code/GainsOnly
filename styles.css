@@ -489,6 +489,25 @@ footer {
   fill: var(--font-color);
 }
 
+.refund_wrapper {
+  line-height: 135%;
+  letter-spacing: 0.01em;
+}
+
+.refund_wrapper h1 {
+  padding-bottom: 1em;
+}
+
+.refund_wrapper p {
+  padding-bottom: 1em;
+}
+
+.refund_wrapper li {
+  padding-bottom: 1em;
+  font-style: italic;
+  text-decoration: underline;
+}
+
 @media screen and (max-width: 1400px) {
   #home {
     height: auto;
